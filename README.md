@@ -1,3 +1,1 @@
-# book-santa-stage-13
-
-solution for 92
+# Book Santa Project final phase beginning
